@@ -6,4 +6,4 @@ Tap anywhere on text to edit it. Tap the gear icon ⚙️ to open the app settin
 Tap the list icon to open your list of saved color schemes. Swipe to delete a saved color scheme.
 
 # Contact
-If you have any questions or concerns, please do not hesitate to [contact us.](mailto:textgroundsupport@proton.me)
+If you have any questions or concerns, please do not hesitate to [contact us.](mailto:andrew.o.dev@proton.me)
